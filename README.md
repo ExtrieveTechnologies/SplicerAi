@@ -4,7 +4,7 @@
 > SplicerAI SDK &amp; API for Document Understanding, Data Extraction, Maksing, Classification & Verifications.
 
 
-# Extrieve QuickCapture AI Document scanning SDK.
+# Extrieve Splicer Intelligent Document Analysis & Understanding SDK.
 > AI based Document Understanding, Data Extraction, Maksing, Classification & Verifications.
 
 > **Developer-friendly** & **Easy to integration** SDK.
